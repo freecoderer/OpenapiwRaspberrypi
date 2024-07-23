@@ -43,5 +43,5 @@ The team appreciated the project for providing insight into practical applicatio
 ## 11. 📚 References
 The report included various references, from online resources like blogs and documentation to books and official websites related to Raspberry Pi and home automation technologies.
 
-- **Document**: [Drive]([https://github.com/freecoderer](https://drive.google.com/file/d/1dn1SqxP14sGAGv53TSZovEV5pErJZEtP/view?usp=sharing
-)) (Only Supports Korean)
+- **Document**: [Drive](https://drive.google.com/file/d/1dn1SqxP14sGAGv53TSZovEV5pErJZEtP/view?usp=sharing)
+ (Only Supports Korean)
