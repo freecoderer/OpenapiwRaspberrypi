@@ -1,5 +1,5 @@
 
-# 🚀 Project Report Analysis: Home Automation Using Raspberry Pi and Weather API 🏠
+# 🚀 Home Automation Using Raspberry Pi and Weather API 🏠
 
 Note: This project was completed in 2019 when I was still an amateur developer and unawared about GitHub at that moment
 
